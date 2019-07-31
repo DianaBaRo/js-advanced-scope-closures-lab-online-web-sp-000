@@ -1,2 +1,12 @@
-const produceDrivingRange = function (){};
+function produceDrivingRange() {
+  
+}
+
+function produceTipCalculator() {
+  
+}
+
+function createDriver() {
+  
+}
   
