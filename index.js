@@ -1,3 +1,2 @@
-function produceDrivingRange() {
+const produceDrivingRange = function (){};
   
-}
