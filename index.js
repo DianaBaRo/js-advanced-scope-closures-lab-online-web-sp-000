@@ -25,5 +25,5 @@ function createDriver() {
       this.id = driverId++;
       this.name = name;
     }
-  } 
+  }
 }
